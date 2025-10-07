@@ -39,8 +39,6 @@
 <div align="center">
   <a href="https://github.com/hiu154" title="Hiu154">
     <img width="315" src="https://github-readme-stats.vercel.app/api?username=hiu154&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-  </a>
-  <a href="https://github.com/hiu154" title="Hiu154">
     <img width="434" src="https://github-readme-streak-stats.herokuapp.com/?user=hiu154&theme=radical&hide_border=false" />
   </a>
   <a href="https://github.com/hiu154" title="Hiu154">
