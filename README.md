@@ -63,10 +63,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="420px" />
-</p>
-
 <!---
 hiu154/hiu154 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
