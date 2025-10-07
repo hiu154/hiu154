@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Jes</h1>
+<h3 align="center">💻 Developer | ☁️ Tech Enthusiast | 🎮 Minecraft Creator</h3>
 <br>
 <h2 align="center">🛜 Social Contact 🛜</h2>
 <br>
