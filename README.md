@@ -55,6 +55,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=hiu154&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<br>
+<h2 align="center">📑 Quote 📑</h2>
+<br>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br>
